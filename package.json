@@ -1,0 +1,24 @@
+{
+    "name": "com.triple-a-studios.toon-shader",
+    "description": "Toon Shader for URP",
+    "version": "1.0.0",
+    "displayName": "TripleA-ToonShader",
+    "unity": "6000.0",
+    "documentationUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
+    "changelogUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
+    "licenseUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
+    "dependencies": {},
+    "keywords": [
+        "cel shader",
+        "shader graph",
+        "toon shader",
+        "toon shader for urp",
+        "anime shader",
+        "anime"
+    ],
+    "author": {
+        "name": "Triple-A-Studios",
+        "email": "ali.qadir.007@outlook.com",
+        "url": "https://github.com/Triple-A-Studios"
+    }
+}
