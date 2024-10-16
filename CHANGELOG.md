@@ -1,4 +1,3 @@
-## [1.0.0] - 2024-08-16
+## [1.0.0] - 2024-10-16
 ### First Release
-- Extension methods for unity
-- Timer that uses low level unity player loop system for timers
+- Screen Space Outlines Shader For Unity 6

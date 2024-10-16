@@ -22,6 +22,8 @@ Cloning the git repository directly(gives access unreleased features and access 
 1. Copy the git URL.
 2. Clone the repository directly into your project.
 
+> Note: To use this for URP 17.1+, Go to Compatibility Mode (RenderGraph disabled) in the menu Edit > Project Settings > Graphics > URP.
+
 ___
 
 ## API Reference Documentation
@@ -44,9 +46,9 @@ ___
 
 ## Future updates
 
-Upcoming updates (as of 20 Aug 2024): 
-- Create a Subsystem in player loop to manage data binding to the timers to reduce unnecessary overhead created by 
-actions to update time ticks.
+Upcoming updates (as of 16 Oct 2024): 
+- Use a better filter method than layermask to render outlines.
+- Use Render Graph API.
 
 ___
 

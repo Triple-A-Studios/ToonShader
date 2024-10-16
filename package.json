@@ -4,9 +4,9 @@
     "version": "1.0.0",
     "displayName": "TripleA-ToonShader",
     "unity": "6000.0",
-    "documentationUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
-    "changelogUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
-    "licenseUrl": "https://github.com/Triple-A-Studios/TripleA-Utils.git",
+    "documentationUrl": "https://github.com/Triple-A-Studios/ToonShader/blob/main/README.md",
+    "changelogUrl": "https://github.com/Triple-A-Studios/ToonShader/blob/main/CHANGELOG.md",
+    "licenseUrl": "https://github.com/Triple-A-Studios/ToonShader/blob/main/LICENSE",
     "dependencies": {},
     "keywords": [
         "cel shader",
